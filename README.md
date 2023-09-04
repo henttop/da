@@ -1,3 +1,3 @@
 # da
 net
-nrt nepravda zasuhin 卐
+nepravda zasuhin 卐
