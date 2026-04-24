@@ -1,4 +1,4 @@
-Andrey PediK, [24.04.2026 19:20]
+
 vless://c6243c63-e91d-46a3-a83c-85c165bad1ab@51.250.16.229:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20VIP%20%5BV2%5D%20%2342
 vless://c6243c63-e91d-46a3-a83c-85c165bad1ab@51.250.14.159:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20VIP%20%5BV2%5D%20%238
 vless://c6243c63-e91d-46a3-a83c-85c165bad1ab@51.250.7.153:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20VIP%20%5BV2%5D%20%2311
@@ -14,7 +14,7 @@ vless://c6243c63-e91d-46a3-a83c-85c165bad1ab@51.250.18.243:5555?security=reality
 vless://c6243c63-e91d-46a3-a83c-85c165bad1ab@51.250.16.209:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20VIP%20%5BV2%5D%20%239
 vless://c6243c63-e91d-46a3-a83c-85c165bad1ab@51.250.111.54:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20VIP%20%5BV2%5D%20%2310
 
-Andrey PediK, [24.04.2026 19:20]
+
 vless://c6243c63-e91d-46a3-a83c-85c165bad1ab@51.250.27.122:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20VIP%20%5BV2%5D%20%2312
 vless://c6243c63-e91d-46a3-a83c-85c165bad1ab@51.250.10.128:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20VIP%20%5BV2%5D%20%2313
 vless://c6243c63-e91d-46a3-a83c-85c165bad1ab@51.250.14.185:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20VIP%20%5BV2%5D%20%2314
@@ -30,7 +30,7 @@ vless://c6243c63-e91d-46a3-a83c-85c165bad1ab@51.250.30.160:5555?security=reality
 vless://c6243c63-e91d-46a3-a83c-85c165bad1ab@51.250.98.101:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20VIP%20%5BV2%5D%20%2324
 vless://c6243c63-e91d-46a3-a83c-85c165bad1ab@51.250.30.127:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20VIP%20%5BV2%5D%20%2325
 
-Andrey PediK, [24.04.2026 19:20]
+
 vless://c6243c63-e91d-46a3-a83c-85c165bad1ab@51.250.30.47:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20VIP%20%5BV2%5D%20%2326
 vless://c6243c63-e91d-46a3-a83c-85c165bad1ab@51.250.102.255:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20VIP%20%5BV2%5D%20%2327
 vless://c6243c63-e91d-46a3-a83c-85c165bad1ab@51.250.96.162:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20VIP%20%5BV2%5D%20%2328
@@ -46,7 +46,6 @@ vless://c6243c63-e91d-46a3-a83c-85c165bad1ab@51.250.28.114:5555?security=reality
 vless://c6243c63-e91d-46a3-a83c-85c165bad1ab@51.250.106.194:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20VIP%20%5BV2%5D%20%2339
 vless://c6243c63-e91d-46a3-a83c-85c165bad1ab@51.250.22.71:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20VIP%20%5BV2%5D%20%2340
 
-Andrey PediK, [24.04.2026 19:20]
 vless://c6243c63-e91d-46a3-a83c-85c165bad1ab@51.250.100.194:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20VIP%20%5BV2%5D%20%2341
 vless://c6243c63-e91d-46a3-a83c-85c165bad1ab@51.250.29.8:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20VIP%20%5BV2%5D%20%2343
 vless://c6243c63-e91d-46a3-a83c-85c165bad1ab@51.250.18.245:5555?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#%F0%9F%87%AA%F0%9F%87%BA%20LTE%20VIP%20%5BV2%5D%20%2345
